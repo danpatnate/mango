@@ -14,10 +14,10 @@ export default class Template extends React.Component {
     return (
       <div>
         <Helmet
-          title="Gatsby Default Starter"
+          title="Dan, Pat & Nate"
           meta={[
-            { name: "description", content: "Sample" },
-            { name: "keywords", content: "sample, something" },
+            { name: "description", content: "Dan, Pat & Nate" },
+            { name: "keywords", content: "blog, freelance, javascript" },
           ]}
         />
         <div
